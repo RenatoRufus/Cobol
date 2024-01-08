@@ -1,8 +1,8 @@
-identification division.
-author. "Rufus".
-program-id. "hello".
+      identification division.
+      author. "Rufus".
+      program-id. "hello".
 
-procedure division.
-display "Hello world".
+      procedure division.
+      display "Hello world".
 
 
